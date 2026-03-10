@@ -6,8 +6,8 @@ For your first project this year, you are going to be creating a simple four-ope
 - Your calculator must not crash if the user attempts to divide by zero. 
 
 Example output #1 (User Input Italicized): 
-> Enter an Operation: _add_
-> Enter the First Number: _7_
+> Enter an Operation: _add_\n
+> Enter the First Number: _7_\n
 > Enter the Second Number: _3_
 > The Answer is 10.0
 
